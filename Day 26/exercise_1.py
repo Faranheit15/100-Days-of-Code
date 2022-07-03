@@ -8,3 +8,4 @@ squared_numbers = [number**2 for number in numbers]
 #Write your code 👆 above:
 
 print(squared_numbers)
+#i have a doubt about ur source code - can you give me a run down pls
